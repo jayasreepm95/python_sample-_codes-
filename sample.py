@@ -1,12 +1,21 @@
-print("hello")
+"""print("hello")
 
 
 
 print("hello world")
-"""mggasjahdudghjgwdgwjjs"""
+mggasjahdudghjgwdgwjjs
 "mnjhgcdzatgh"                 #comments in python
 #kejhgrfudijkcl
 
 
-print("hello jayasee")
+print("hello jayasree")
 
+
+
+
+n=[45,23,5,60]
+print(n[-1:-4:-1])"""
+
+var="HELLO PYTHON"
+
+print(var[7:-1])
