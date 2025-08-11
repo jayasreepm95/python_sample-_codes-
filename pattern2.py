@@ -8,4 +8,7 @@ for n in range(1,6):
             # print star
             print(j, end=' ')
         # new line after each row
+
         print("\r")
+
+
